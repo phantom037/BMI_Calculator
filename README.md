@@ -9,4 +9,4 @@ Jan 28, 2021
 - Here is the first screen when you open application\
 <img src="https://github.com/phantom037/BMI_Calculator/blob/master/AppImages/BMI1.png?raw=true" width="30%" height="30%">
 - After you input your data and click the calculate button will be load\
-<img src="hhttps://github.com/phantom037/BMI_Calculator/blob/master/AppImages/BMi2.png?raw=true" width="30%" height="30%">
+<img src="https://github.com/phantom037/BMI_Calculator/blob/master/AppImages/BMi2.png?raw=true" width="30%" height="30%">
