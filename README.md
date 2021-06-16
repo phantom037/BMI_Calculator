@@ -4,7 +4,7 @@ A BMI Calculator Flutter application.
 
 ## Getting Started
 
-This project is my first Flutter application lesson from Udemy. You can view my complete project here [View](https://github.com/phantom037/Palpitate)
+This project is my first Flutter application lesson from Udemy. You can view my complete project here [View](https://github.com/phantom037/BMI_Calculator)
 Jan 28, 2021
 - Here is the first screen when you open application\
 <img src="https://github.com/phantom037/BMI_Calculator/blob/master/AppImages/BMI1.png?raw=true" width="30%" height="30%">
